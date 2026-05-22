@@ -97,7 +97,7 @@ python app.py
 
 ## Screenshot
 
-![Chatbot Screenshot](screenshots/homepage.png)
+![Chatbot Screenshot](screenshots/homepage.jpeg)
 
 ---
 
